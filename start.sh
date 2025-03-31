@@ -4,7 +4,7 @@ echo "Fala teu email do GitHub aí, pae: "
 read email
 
 echo "Cola o token aí, doido: "
-read -s token  # -s oculta a digitação do token por segurança
+read -s token  
 
 echo "Quem és tu? (Usuário do GitHub): "                                                        
 read user
